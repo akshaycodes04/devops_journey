@@ -1,4 +1,4 @@
-# Use official nginx image as base
+#1 Use official nginx image as base
 FROM nginx:alpine
 
 # Copy your html file to nginx's default html directory
